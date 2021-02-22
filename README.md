@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**ce-8bll/ce-8bll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving my hard and soft skills
 - 🌱 I’m currently learning ... Photoshop (!)
@@ -12,3 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... anything, really
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: polyglot Frenchwoman who's lived in the UK, Spain and currently based in Germany
+
+<!--
+**ce-8bll/ce-8bll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
+
